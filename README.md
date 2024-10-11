@@ -2,10 +2,6 @@
 ![Screenshot 2024-10-11 160834](https://github.com/user-attachments/assets/39224442-1b14-4b3d-a059-851dcfd0335e)
 
 
-### Deployed smartcontract address: 0xdecba8ed10fabb0e9a8f7992fdfd61b67fff47f55a2a3be299c0b988da9d74ef
-
-### Screenshot: ![alt text](image.png)
-
 # Basic Decentralized Exchange (DEX)
 
 ## Project Title
